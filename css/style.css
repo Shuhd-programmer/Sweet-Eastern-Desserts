@@ -303,5 +303,11 @@ footer{
     header#main-header {
         background-position: center center;
     }
+    header .fr-sec {
+        top: 30%;
+    }
+    header .fr-sec p{
+        color: #dbdbdb;
+    }
 
 }
